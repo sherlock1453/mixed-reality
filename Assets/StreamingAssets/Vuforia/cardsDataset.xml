@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="images1" size="2.000000 1.314079" />
+    <ImageTarget name="images" size="3.000000 1.996364" />
+    <ImageTarget name="Seamless" size="3.000000 3.000000" />
+    <ImageTarget name="15121156-brown-marble-stone-mosaic-texture--high-res" size="3.000000 2.993333" />
+    <ImageTarget name="Hypnosis-spiral" size="5.000000 5.289256" />
+    <ImageTarget name="ripples-in-the-sand" size="5.000000 3.333333" />
+    <ImageTarget name="Harry_Potter_and_the_Order_of_the_Phoenix" size="3.000000 4.620000" />
+    <ImageTarget name="2OfSpades" size="5.000000 7.000000" />
+  </Tracking>
+</QCARConfig>
